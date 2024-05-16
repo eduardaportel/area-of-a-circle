@@ -10,6 +10,6 @@ public class AreaOfCircle {
         double area = pi * R * R;
         
         // print area
-        System.out.printf("A = %.4f \n", area);
+        System.out.printf("A = %.4f", area);
     } 
 }
